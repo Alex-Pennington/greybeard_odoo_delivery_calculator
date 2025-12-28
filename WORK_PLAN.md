@@ -1,18 +1,18 @@
-# Graybeard Delivery Calculator - Work Plan
+# Greybeard Delivery Calculator - Work Plan
 
 ## Completed ✅
 - ✅ Extract from server
 - ✅ Create .env configuration
 - ✅ Update code for env vars
 - ✅ Remove Settings UI
-- ✅ Rebrand to Graybeard
+- ✅ Rebrand to Greybeard
 - ✅ Clean documentation
 - ✅ Git commit locally
 
 ## Remaining Tasks
 
 ### 1. GitHub Repository
-- [ ] Create GitHub repo: `graybeard_odoo_delivery_calculator`
+- [ ] Create GitHub repo: `Greybeard_odoo_delivery_calculator`
 - [ ] Push local repo to GitHub
 - [ ] Add LICENSE file (LGPL-3)
 - [ ] Verify .gitignore excludes .env
@@ -35,5 +35,5 @@
 ---
 
 **Created:** 2025-12-28  
-**Module:** Graybeard Delivery Calculator  
+**Module:** Greybeard Delivery Calculator  
 **Status:** Ready for GitHub push

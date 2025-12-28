@@ -33,7 +33,7 @@
 
 ---
 
-## Recommendation for Graybeard Migration
+## Recommendation for Greybeard Migration
 
 **Use SERVER version as base** - includes additional documentation.
 

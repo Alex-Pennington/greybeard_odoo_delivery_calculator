@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Graybeard Delivery Calculator',
+    'name': 'Greybeard Delivery Calculator',
     'version': '19.0.1.0.0',
     'category': 'Sales',
     'summary': 'Automatic delivery cost calculation with GPS distance-based routing',
     'description': """
-        Graybeard Delivery Calculator
+        Greybeard Delivery Calculator
         ==============================
         
         Automatically calculates delivery costs when a "Delivery" product is added to sales orders.
@@ -45,8 +45,8 @@
         
         See .env.example for all configuration options.
     """,
-    'author': 'Graybeard Solutions',
-    'website': 'https://graybeard.solutions',
+    'author': 'Greybeard Solutions',
+    'website': 'https://Greybeard.solutions',
     'license': 'LGPL-3',
     'depends': [
         'sale',

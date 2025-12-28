@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to Graybeard Delivery Calculator will be documented in this file.
+All notable changes to Greybeard Delivery Calculator will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
@@ -16,9 +16,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Changed
 - **BREAKING**: Migrated from Odoo 17 to Odoo 19
 - **BREAKING**: All configuration now via environment variables instead of Odoo Settings UI
-- Module name: `delivery_cost_calculator` → `graybeard_delivery_calculator`
-- Author: "Your Company" → "Graybeard Solutions"
-- Website: https://www.yourcompany.com → https://graybeard.solutions
+- Module name: `delivery_cost_calculator` → `Greybeard_delivery_calculator`
+- Author: "Your Company" → "Greybeard Solutions"
+- Website: https://www.yourcompany.com → https://Greybeard.solutions
 - Version: 17.0.5.0.0 → 19.0.1.0.0
 - Configuration loading: `ir.config_parameter` → `os.environ`
 - Updated README.md with environment-based installation instructions
@@ -67,7 +67,7 @@ Old Odoo 17 installations using Settings UI must migrate to .env:
 
 ## [17.0.5.0.0] - 2024-10-16 (Phoenix Nest - Final Version)
 
-Final version before Graybeard rebrand. Used Odoo Settings UI for configuration.
+Final version before Greybeard rebrand. Used Odoo Settings UI for configuration.
 
 ### Features (Pre-Migration)
 - GPS-based delivery cost calculation

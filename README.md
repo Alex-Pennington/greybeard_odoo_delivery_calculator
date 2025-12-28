@@ -1,4 +1,4 @@
-# Graybeard Delivery Calculator
+# Greybeard Delivery Calculator
 
 Automatic delivery cost calculation for Odoo 19+ based on GPS distance routing.
 
@@ -48,7 +48,7 @@ DELIVERY_GOOGLE_API_KEY=
 ### 3. Install Module
 1. Restart Odoo server
 2. Update Apps List (Apps → Update Apps List)
-3. Search for "Graybeard Delivery Calculator"
+3. Search for "Greybeard Delivery Calculator"
 4. Click Install
 
 ## Prerequisites
@@ -134,5 +134,5 @@ LGPL-3
 
 ## Author
 
-Graybeard Solutions  
-https://graybeard.solutions
+Greybeard Solutions  
+https://Greybeard.solutions
